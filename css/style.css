@@ -1,0 +1,29 @@
+.box{
+	margin: 10px 0;
+	min-height: 100px;
+	font-size: 50px;
+	text-align: center;
+	background-color: red;
+}
+.bg-dark{
+	margin-top: 10px;
+}
+.box2{
+	margin-top: 10px;
+	text-align: center;
+	height: 150px;
+	font-size: 20px;
+}
+.mh-300{
+	height: 300px;
+}
+.p_b{
+	height: 400px;
+}
+.box3{
+	width: 20px;
+	height: 20px;
+	background-color:gray;
+
+
+}
